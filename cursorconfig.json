@@ -1,0 +1,11 @@
+{
+    "rootPath": "./",
+    "includePaths": [
+      "./**/*",
+      "./package.json"
+    ],
+    "excludePaths": [
+      "**/node_modules/**/*.log",
+      "**/temp/**/*"
+    ]
+  }

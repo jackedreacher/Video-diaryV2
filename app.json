@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "video-diary",
+    "slug": "video-diary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "fonts": {
+      "Noteworthy": "./assets/fonts/Noteworthy-Light.ttf",
+      "Noteworthy-Bold": "./assets/fonts/Noteworthy-Bold.ttf"
+    },
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-router",
+      "expo-video",
+      "expo-sqlite",
+      "expo-font"
+    ],
+    "scheme": "video-diary",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.yusuf87.videodiary"
+    }
+  }
+}

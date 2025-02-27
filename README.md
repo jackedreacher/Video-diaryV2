@@ -159,6 +159,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-Yusuf Altınışık - [@linkedin](https://linkedin.com/in/yusuf-altınışık-5732bb213) - nure234ttin@gmail.com
+Yusuf Altınışık - [@linkedin](https://linkedin.com/in/yusuf-altınışık-5732bb213) nure234ttin@gmail.com
 
 Project Link: [https://github.com/jackedreacher/video-diary](https://github.com/jackedreacher/video-diary)"# Video-diaryV2" 

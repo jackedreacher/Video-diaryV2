@@ -73,12 +73,11 @@ A beautiful and intuitive mobile application for capturing, organizing, and cher
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/memory-diary-app.git
+https://github.com/jackedreacher/Video-diaryV2.git
 ```
 
 2. Install dependencies:
 ```bash
-cd video-diary
 npm install
 ```
 
@@ -92,18 +91,15 @@ npx expo start
 ### Prerequisites
 - Node.js (v14 or later)
 - Expo CLI
-- iOS Simulator or Android Emulator (or physical device)
+- iOS Simulator (or physical device)
 
-### Development Mode
+### Development Mode (RUNS ONLY IOS)
 ```bash
 # Start with Expo
 npx expo start
 
 # Run on iOS
 npx expo run:ios
-
-# Run on Android
-npx expo run:android
 ```
 
 ## 📁 Project Structure
@@ -163,6 +159,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-Yusuf Altınışık - [@linkedin](https://linkedin.com/in/yusuf-altınışık-5732bb213) - nure234@gmail.com
+Yusuf Altınışık - [@linkedin](https://linkedin.com/in/yusuf-altınışık-5732bb213) - nure234ttin@gmail.com
 
 Project Link: [https://github.com/jackedreacher/video-diary](https://github.com/jackedreacher/video-diary)"# Video-diaryV2" 

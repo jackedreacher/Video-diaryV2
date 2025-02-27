@@ -56,6 +56,7 @@ A beautiful and intuitive mobile application for capturing, organizing, and cher
   - NativeWind styling
   - Moti
   - Expo AV
+  - Expo Router
   - React Native BlurView
   - React Native Gesture Handler
   - React Native Vector Icons
@@ -66,7 +67,7 @@ A beautiful and intuitive mobile application for capturing, organizing, and cher
   - FileSystem
 
 - **Database**
-  - ExpoSqlite
+  - Expo SQlite
 
   
 ## 📦 Installation
